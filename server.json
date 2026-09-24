@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/data-nj",
   "title": "Data Nj",
   "description": "New Jersey Open Data (data.nj.gov) Socrata MCP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/data-nj",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-data-nj",
