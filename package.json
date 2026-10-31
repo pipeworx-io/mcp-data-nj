@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-nj",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "New Jersey Open Data (data.nj.gov) Socrata MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "data-nj",
     "gatewaySlug": "data-nj",
-    "sourceHash": "v1-3f35ab0b278adcdcda49693d5b9900d73e28ca579e56d990e5d1d1a6d08443c5",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-634d31801bff6492691b625b16b2b636b9a3c0775ba078bacbe1bc3afc209fbf",
+    "sourceCommit": "5ce1a05186d46479e23865c66bdb8579d8de445e"
   }
 }
